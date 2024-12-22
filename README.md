@@ -22,7 +22,5 @@ La memoria recopila los trabajos realizados en las tres prácticas:
 - `/Practica3/`: Código y documentación de la Práctica 3.
 - `/Memoria/`: Documento final que integra y analiza los resultados de todas las prácticas.
 
-3. Ejecutar el código según las instrucciones específicas en cada subdirectorio.
-
 ## Requisitos
 - Los cuadernos pueden ser ejecutados en Google Collab.
