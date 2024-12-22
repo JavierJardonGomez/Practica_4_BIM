@@ -2,7 +2,7 @@
 
 Este repositorio contiene el proyecto final del Máster Universitario en Inteligencia Artificial, específicamente para la asignatura "Búsqueda Inteligente basada en Metaheurísticas". El proyecto se divide en tres prácticas principales, en las que se implementan y analizan diferentes metaheurísticas para resolver problemas complejos de optimización. 
 
-## Estructura del Proyecto
+## Estructura del Proyecto Final
 
 ### Práctica 1: Resolución del Problema del Juego de Cifras
 Se aborda el problema del Juego de Cifras utilizando metaheurísticas para encontrar una combinación óptima de operaciones matemáticas y números dados.  
@@ -14,7 +14,7 @@ Se aplica la metaheurística Golf Sport Inspired Search (GSIS) para resolver un 
 Se implementa el algoritmo Mycorrhiza Optimization Algorithm (MOA) para optimizar la asignación de tareas en varias máquinas.
 
 ## Memoria Final
-La memoria recopila, analiza y discute todos los trabajos realizados en las tres prácticas:
+La memoria recopila los trabajos realizados en las tres prácticas:
 
 ## Estructura del Repositorio
 - `/Practica1/`: Código y documentación de la Práctica 1.
