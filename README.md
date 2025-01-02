@@ -4,11 +4,11 @@ Este repositorio contiene el proyecto final del Máster Universitario en Intelig
 
 ## Estructura del Proyecto Final
 
-### Práctica 1: Resolución del Problema del Juego de Cifras
-Se aborda el problema del Juego de Cifras utilizando metaheurísticas para encontrar una combinación óptima de operaciones matemáticas y números dados.  
-
-### Práctica 2: Optimización de Rutas con Golf Sport Inspired Search (GSIS)
+### Práctica 1: Optimización de Rutas con Golf Sport Inspired Search (GSIS)
 Se aplica la metaheurística Golf Sport Inspired Search (GSIS) para resolver un problema de optimización de rutas en un campo de golf simulado, evitando obstáculos.
+
+### Práctica 2: Resolución del Problema del Juego de Cifras
+Se aborda el problema del Juego de Cifras utilizando metaheurísticas para encontrar una combinación óptima de operaciones matemáticas y números dados.  
 
 ### Práctica 3: Asignación de Tareas con Mycorrhiza Optimization Algorithm (MOA)
 Se implementa el algoritmo Mycorrhiza Optimization Algorithm (MOA) para optimizar la asignación de tareas en varias máquinas.
