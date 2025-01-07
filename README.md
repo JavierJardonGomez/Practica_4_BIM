@@ -18,7 +18,7 @@ La memoria recopila los trabajos realizados en las tres prácticas:
 
 ## Estructura del Repositorio
 - `/Practica 1 - GSIS/`: Código y documentación de la Práctica 1.
-- `/Practica 2 - Cifras y letras/`: Código y documentación de la Práctica 2.
+- `/Practica 2 - Juego de Cifras/`: Código y documentación de la Práctica 2.
 - `/Practica3 - MOA/`: Código y documentación de la Práctica 3.
 - `/Memoria/`: Documento final que integra y analiza los resultados de todas las prácticas.
 
